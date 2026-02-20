@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 가상환경
+venv/
+env/
+ENV/
+.venv
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.cache
+.pytest_cache/
+
+# 환경 변수
+.env
+.env.local
+
+# OS
+Thumbs.db
+desktop.ini
+
+# 기타
+*.bak
+*.backup
